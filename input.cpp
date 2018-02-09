@@ -1,1 +1,0 @@
-freopen("t.txt","r",stdin);
